@@ -46,4 +46,7 @@ dist/**
 *.xlf
 package.nls.*.json
 l10n/
+
+# custom
 venv
+config.ini
