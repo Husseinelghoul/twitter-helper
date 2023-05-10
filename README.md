@@ -12,9 +12,9 @@ Tweepy library
     git clone https://github.com/your-username/twitter-unliker.git
     cd twitter-unliker
     ```
-2. Install the Tweepy library:
+2. Install the requirements:
     ```
-    pip install tweepy
+    pip install -r requirements.txt
     ```
 3. Create a Twitter API application and obtain your API keys and access tokens.
 You can follow the instructions [here](https://developer.twitter.com/en/docs/apps/overview) to create a new application
